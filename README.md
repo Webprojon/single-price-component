@@ -1,1 +1,1 @@
-### Single-price-component
+### [Single-price-component](https://singlepricecomponen.netlify.app/)
